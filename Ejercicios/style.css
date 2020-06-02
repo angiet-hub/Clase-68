@@ -1,0 +1,47 @@
+.info {
+    padding: 20px;
+    background-color: lightblue ;
+    font-size: 33px;
+    margin: 8px 0;
+    width: 50%;
+}
+
+.warning {
+    padding: 20px;
+    background-color:lightgoldenrodyellow ;
+    font-size: 33px;
+    margin: 8px 0;
+    width: 50%;
+}
+
+.success {
+    padding: 20px;
+    background-color: lightgreen ;
+    font-size: 33px;
+    margin: 8px 0;
+    width: 50%;
+}
+
+.danger {
+    padding: 20px;
+    background-color: lightsalmon ;
+    font-size: 33px;
+    margin: 8px 0;
+    width: 50%;
+}
+
+.menorDiez {
+    color: red;
+}
+
+.mayorDiez {
+    color: orange;
+}
+
+.mayorVeinticinco {
+    color: yellow;
+}
+
+.mayorCuarenta {
+    color: green;
+}
